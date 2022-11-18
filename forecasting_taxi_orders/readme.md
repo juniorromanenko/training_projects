@@ -14,7 +14,7 @@
 
 ---
 
-pandas, seaborn, scipy, matplotlib, sklearn, pandas_profiling, shap, lightgbm, catboost, statsmodels
+pandas, seaborn, scipy, matplotlib, sklearn, pandas_profiling, shap, lightgbm, catboost, statsmodels.
 
 
 
