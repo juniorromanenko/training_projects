@@ -14,7 +14,7 @@
 
 ---
 
-pandas, sklearn, optuna, LGBM, seaborn, matplotlib, sqlalchemy, numpy, shap, catboost
+pandas, sklearn, optuna, LGBM, seaborn, matplotlib, sqlalchemy, numpy, shap, catboost.
 
 ### Описание данных
 
