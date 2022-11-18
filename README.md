@@ -5,7 +5,7 @@
 Этот репозиторий предназначен для проектов, которые были сделаны в Яндекс.Практикуме на программе "Data Scientist плюс".
 
 | Название | Цель | Задачи | Инструменты |
-| —---------— | —---------— | —- | — |
+| :-------------------- | :--------------------- |:---------------------------|:---------------------------|
 | [hotel cancellation forecast](https://github.com/juniorromanenko/training_projects/tree/master/hotel_cancellation_forecast) | Спрогнозировать кто из клиентов откажется от брони. |Разработка модели для прогнозирования отказа от брони номера в отеле.| python, numpy, sklearn, pandas, seaborn, matplotlib, xgboost, shap. |
 | [predict car price](https://github.com/juniorromanenko/training_projects/tree/master/predict_car_price) | Спрогнозировать стоимость автомобиля по его характеристикам. |Разработка модели для прогнозирования стоимости автомобиля. |python, numpy, sklearn, pandas, seaborn, xgboost, lightgbm, matplotlib, shap. |
 | [predict_star temperature with neural net](https://github.com/juniorromanenko/training_projects/tree/master/predict_star_temperature_with_neural_net) | Определить температуру на поверхности звезды по ее параметрам. |Разработка модели для прогнозирования температуры на поверхности звезды. |python, numpy, sklearn, pandas, seaborn, matplotlib, pytorch, catboost, optuna.|
